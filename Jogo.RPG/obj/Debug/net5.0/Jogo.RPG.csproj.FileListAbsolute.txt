@@ -1,0 +1,16 @@
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\bin\Debug\net5.0\Jogo.RPG.exe
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\bin\Debug\net5.0\Jogo.RPG.deps.json
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\bin\Debug\net5.0\Jogo.RPG.runtimeconfig.json
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\bin\Debug\net5.0\Jogo.RPG.runtimeconfig.dev.json
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\bin\Debug\net5.0\Jogo.RPG.dll
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\bin\Debug\net5.0\ref\Jogo.RPG.dll
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\bin\Debug\net5.0\Jogo.RPG.pdb
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\obj\Debug\net5.0\Jogo.RPG.csproj.AssemblyReference.cache
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\obj\Debug\net5.0\Jogo.RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\obj\Debug\net5.0\Jogo.RPG.AssemblyInfoInputs.cache
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\obj\Debug\net5.0\Jogo.RPG.AssemblyInfo.cs
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\obj\Debug\net5.0\Jogo.RPG.csproj.CoreCompileInputs.cache
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\obj\Debug\net5.0\Jogo.RPG.dll
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\obj\Debug\net5.0\ref\Jogo.RPG.dll
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\obj\Debug\net5.0\Jogo.RPG.pdb
+C:\Users\Luciana Martins\source\repos\Jogo.RPG\Jogo.RPG\obj\Debug\net5.0\Jogo.RPG.genruntimeconfig.cache
